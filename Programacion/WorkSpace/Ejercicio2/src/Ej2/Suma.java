@@ -12,12 +12,12 @@ public class Suma {
 		
 		System.out.println("Parte 1");
 		
-		System.out.println("4\n+\n7\n=\n" + (a + b));
+		System.out.println(a + "\n+\n" + b + "\n=\n" + (a + b));
 		
 		System.out.println("--------------------------------");
-		System.out.println("4 + 7\n= " + (a + b));
+		System.out.println(a +" + " + b + "\n= " + (a + b));
 		System.out.println("--------------------------------");
-		System.out.println("4 + 7 = (" + (a + b) + ")");
+		System.out.println(a +" + " + b + " = (" + (a + b) + ")");
 		
 		System.out.println("--------------------------------");
 		System.out.println("Parte 2");
@@ -25,10 +25,15 @@ public class Suma {
 		
 		System.out.println("Bucle While");
 		while(c <= 10) {
+			if(c < 10 ) {
+				System.out.print(c + " + ");
+			} else {
+				System.out.print(c + " = ");
+			}
 			d += c;
 			c++;
 		}
-		System.out.println("1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = " + d);
+		System.out.println(d);
 		
 		System.out.println("");
 		
@@ -36,8 +41,14 @@ public class Suma {
 		d = 0;
 		for(c = 0; c<=10; c++) {
 			d += c;
+			
+			if(c < 10 && c != 0) {
+				System.out.print(c + " + ");
+			} else if(c != 0) {
+				System.out.print(c + " = ");
+			}
 		}
 		
-		System.out.println("1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = " + d);
+		System.out.println(d);
 	}
 }

@@ -346,3 +346,33 @@
 2026-09-15 22:27:32.852: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-15 22:27:32.852: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-15 22:36:59.916: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 14:50:24.502: [INFO] CurrentProfilePath: C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 14:50:24.502: [INFO] Profiles total count: 1
+2026-09-16 14:50:24.502: [INFO] Profile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-16 14:50:24.502: [INFO] LastUsedProfileDir: C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 14:50:24.502: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-16 14:50:24.502: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 14:50:24.502: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 14:50:24.502: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 14:50:24.502: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 14:50:28.406: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 14:54:06.760: [INFO] CurrentProfilePath: C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 14:54:06.760: [INFO] Profiles total count: 1
+2026-09-16 14:54:06.760: [INFO] Profile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-16 14:54:06.760: [INFO] LastUsedProfileDir: C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-16 14:54:06.760: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-16 14:54:06.760: [INFO] OnDoneLoading sync enabled: 0
+2026-09-16 14:54:06.760: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-16 14:54:06.760: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-16 14:54:06.760: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-16 14:54:16.608: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:23:40.468: [INFO] CurrentProfilePath: C:\Users\alber\Documents\1- DAM\Programacio\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:23:40.468: [INFO] Profiles total count: 1
+2026-09-17 15:23:40.468: [INFO] Profile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacio\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-17 15:23:40.468: [INFO] LastUsedProfileDir: C:\Users\alber\Documents\1- DAM\Programacio\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:23:40.468: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\alber\Documents\1- DAM\Programacio\Programacion\WorkSpace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-15T22:15:24.364Z
+2026-09-17 15:23:40.468: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:23:40.468: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:23:40.468: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:23:40.468: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 17:00:57.469: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
